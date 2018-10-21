@@ -15,7 +15,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "p17koug"
 description              : "Making Interactivity Greek Book."
-url                      : "https://p17koug.github.io/gr/"
+url                      : "https://p17koug.github.io"
 baseurl                  : "/gr"
 repository               : "p17koug/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
