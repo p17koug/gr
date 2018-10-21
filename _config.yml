@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "gr-GR"
 title                    : "Ο Προγραμματισμός της Διάδρασης"
 title_separator          : "-"
-name                     : "mibook"
+name                     : "jokg"
 description              : "Making Interactivity Greek Book."
-url                      : "http://mibook.org/gr"
+url                      : "https://p17koug.github.io/gr/"
 baseurl                  : "/gr"
-repository               : "mibook/gr"
+repository               : "jokg/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -73,7 +73,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "mibook"
+  github           : "jokg"
   gitlab           :
   google_plus      :
   keybase          :
