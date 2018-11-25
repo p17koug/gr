@@ -14,4 +14,4 @@ tags:
 <p data-height="350" data-theme-id="17517" data-slug-hash="OyJzZq" data-default-tab="result" data-user="p17koug" class='codepen'>See the Pen <a href='https://codepen.io/p17koug/pen/vQRmww'>Thermostat</a> by p17koug (<a href='http://codepen.io/p17koug'>@p17koug</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
-Ασκηση: Τροποποιείστε τον κώδικα προσθέτοντας μια επιπλέον λειτουργία κατά την οποία αν η θερμοκρασία ξεπερνάει το επιτρεπόμενο όριο(κάτω από 10°C ή πάνω από 50°C) να ακούγεται ένας προειδοποιητικός ήχος 
+Ασκηση: Τροποποιήστε τον κώδικα προσθέτοντας μια επιπλέον λειτουργία κατά την οποία αν η θερμοκρασία ξεπερνάει το επιτρεπόμενο όριο(κάτω από 10°C ή πάνω από 50°C) να ακούγεται ένας προειδοποιητικός ήχος 
